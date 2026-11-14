@@ -1,0 +1,551 @@
+{
+  "settings": {
+    "practiceName": "Laurette Medical Center",
+    "tagline": "Refined Dental Care in Al Rigga, Dubai",
+    "phone": "+971 58 573 3778",
+    "whatsapp": "+971 58 573 3778",
+    "email": "[EMAIL PLACEHOLDER]",
+    "officeHoursDisplay": "[OFFICE HOURS — PLACEHOLDER]",
+    "emergencyLineDisplay": "[NOT PROVIDED — DO NOT ASSUME MAIN NUMBER IS AN EMERGENCY LINE]",
+    "emergencyHoursDisplay": "[NOT PROVIDED]",
+    "insuranceAcceptedDisplay": "[NOT PROVIDED — DO NOT DISPLAY UNVERIFIED INSURANCE PROVIDERS]",
+    "financingPartnerDisplay": "[NOT PROVIDED]",
+    "paymentMethodDisplay": "[NOT PROVIDED]",
+    "cancellationPolicyDisplay": "[CANCELLATION POLICY — PLACEHOLDER]",
+    "newPatientOfferDisplay": "NONE",
+    "yearsInPracticeDisplay": "[NOT PROVIDED]",
+    "technologyDisplay": "[NOT PROVIDED]",
+    "teamSizeDisplay": "[NOT PROVIDED]",
+    "sterilizationBufferMinutes": 15,
+    "minimumNoticeHours": 2,
+    "blackoutDates": [],
+    "chatbotEnabled": true,
+    "chatbotSaveTranscripts": true,
+    "chatbotKnowledgeBase": "Laurette Medical Center is a dental clinic located in Al Rigga, Dubai, UAE (Coordinates: 25.26706, 55.3089). Phone and WhatsApp: +971 58 573 3778. Currency: AED. Timezone: Asia/Dubai (GST, UTC+4). Suggested dental categories are awaiting clinic confirmation unless marked confirmed in the database. Pricing is \"Call for an estimate\" unless a confirmed AED price is listed."
+  },
+  "services": [
+    {
+      "id": "svc_1",
+      "slug": "general-dentistry",
+      "name": "General Dentistry",
+      "confirmed": false,
+      "category": "Foundational Care",
+      "shortSummary": "Comprehensive oral examinations, preventive guidance, and routine restorative care.",
+      "whatItIs": "Ongoing oral health evaluations and everyday dental care tailored to preserve natural teeth and gums.",
+      "whoItIsFor": "Adults and families seeking attentive, calm routine dental care in Al Rigga, Dubai.",
+      "whatToExpect": "A unhurried conversation about your goals, a gentle examination, and clear explanation of any findings before any care begins.",
+      "priceLabel": "Call for an estimate",
+      "durationMinutes": 45,
+      "faqs": [
+        {
+          "question": "How do I request an estimate for General Dentistry?",
+          "answer": "Please call or message Laurette Medical Center on +971 58 573 3778. A final treatment plan and estimate in AED are always confirmed after an in-person clinical examination."
+        }
+      ],
+      "updatedAt": "2026-11-14T15:29:44.850Z"
+    },
+    {
+      "id": "svc_2",
+      "slug": "dental-checkups",
+      "name": "Dental Checkups",
+      "confirmed": false,
+      "category": "Preventive Care",
+      "shortSummary": "Thorough periodic oral assessments to support long-term tooth and gum wellness.",
+      "whatItIs": "A structured evaluation of teeth, gums, bite alignment, and existing dental restorations.",
+      "whoItIsFor": "New and returning patients establishing a calm, consistent preventive schedule.",
+      "whatToExpect": "Your dentist reviews your comfort preferences, checks each tooth carefully, and answers all questions in plain language.",
+      "priceLabel": "Call for an estimate",
+      "durationMinutes": 30,
+      "faqs": [
+        {
+          "question": "How do I request an estimate for Dental Checkups?",
+          "answer": "Please call or message Laurette Medical Center on +971 58 573 3778. A final treatment plan and estimate in AED are always confirmed after an in-person clinical examination."
+        }
+      ],
+      "updatedAt": "2026-11-14T15:29:44.850Z"
+    },
+    {
+      "id": "svc_3",
+      "slug": "teeth-cleaning",
+      "name": "Teeth Cleaning",
+      "confirmed": false,
+      "category": "Preventive Care",
+      "shortSummary": "Professional plaque and tartar removal paired with gentle surface polishing.",
+      "whatItIs": "Professional dental hygiene care designed to remove buildup along the gumline and refresh tooth surfaces.",
+      "whoItIsFor": "Patients maintaining fresh breath, healthy gums, and smooth enamel between routine checkups.",
+      "whatToExpect": "Comfort-focused scaling and gentle polishing at a pace suited to your sensitivity level.",
+      "priceLabel": "Call for an estimate",
+      "durationMinutes": 45,
+      "faqs": [
+        {
+          "question": "How do I request an estimate for Teeth Cleaning?",
+          "answer": "Please call or message Laurette Medical Center on +971 58 573 3778. A final treatment plan and estimate in AED are always confirmed after an in-person clinical examination."
+        }
+      ],
+      "updatedAt": "2026-11-14T15:29:44.850Z"
+    },
+    {
+      "id": "svc_4",
+      "slug": "teeth-whitening",
+      "name": "Teeth Whitening",
+      "confirmed": false,
+      "category": "Aesthetic Care",
+      "shortSummary": "Clinically supervised brightening options discussed after an oral health evaluation.",
+      "whatItIs": "Professional tooth shade brightening planned around enamel health and sensitivity considerations.",
+      "whoItIsFor": "Adults interested in lifting surface discoloration from coffee, tea, or natural aging.",
+      "whatToExpect": "An initial suitability check followed by a clear overview of options and realistic shade expectations. Individual results vary.",
+      "priceLabel": "Call for an estimate",
+      "durationMinutes": 60,
+      "faqs": [
+        {
+          "question": "How do I request an estimate for Teeth Whitening?",
+          "answer": "Please call or message Laurette Medical Center on +971 58 573 3778. A final treatment plan and estimate in AED are always confirmed after an in-person clinical examination."
+        }
+      ],
+      "updatedAt": "2026-11-14T15:29:44.850Z"
+    },
+    {
+      "id": "svc_5",
+      "slug": "dental-implants",
+      "name": "Dental Implants",
+      "confirmed": false,
+      "category": "Restorative Care",
+      "shortSummary": "Consultations and restorative planning for single or multiple missing teeth.",
+      "whatItIs": "A dedicated assessment exploring biocompatible tooth-root replacement and custom crown restoration.",
+      "whoItIsFor": "Patients seeking stable, natural-looking options for missing teeth.",
+      "whatToExpect": "A calm consultation reviewing oral structure, timeline stages, and personalized pricing before any decision is made.",
+      "priceLabel": "Call for an estimate",
+      "durationMinutes": 60,
+      "faqs": [
+        {
+          "question": "How do I request an estimate for Dental Implants?",
+          "answer": "Please call or message Laurette Medical Center on +971 58 573 3778. A final treatment plan and estimate in AED are always confirmed after an in-person clinical examination."
+        }
+      ],
+      "updatedAt": "2026-11-14T15:29:44.850Z"
+    },
+    {
+      "id": "svc_6",
+      "slug": "veneers",
+      "name": "Veneers",
+      "confirmed": false,
+      "category": "Aesthetic Care",
+      "shortSummary": "Custom-crafted thin aesthetic facings planned to complement natural facial harmony.",
+      "whatItIs": "Individually designed ceramic or composite shells crafted to refine tooth shape, alignment, or shade.",
+      "whoItIsFor": "Patients exploring conservative aesthetic enhancements for chipped, worn, or uneven teeth.",
+      "whatToExpect": "An unhurried aesthetic consultation focusing on natural proportions and conservative preparation.",
+      "priceLabel": "Call for an estimate",
+      "durationMinutes": 60,
+      "faqs": [
+        {
+          "question": "How do I request an estimate for Veneers?",
+          "answer": "Please call or message Laurette Medical Center on +971 58 573 3778. A final treatment plan and estimate in AED are always confirmed after an in-person clinical examination."
+        }
+      ],
+      "updatedAt": "2026-11-14T15:29:44.850Z"
+    },
+    {
+      "id": "svc_7",
+      "slug": "crowns-and-bridges",
+      "name": "Crowns and Bridges",
+      "confirmed": false,
+      "category": "Restorative Care",
+      "shortSummary": "Custom protective restorations to reinforce weakened teeth or span gaps.",
+      "whatItIs": "Tailored dental restorations engineered to restore strength, bite comfort, and natural appearance.",
+      "whoItIsFor": "Patients with fractured teeth, large older fillings, or single-tooth spaces.",
+      "whatToExpect": "Precision measurement, clear material choices, and a transparent estimate prior to treatment.",
+      "priceLabel": "Call for an estimate",
+      "durationMinutes": 60,
+      "faqs": [
+        {
+          "question": "How do I request an estimate for Crowns and Bridges?",
+          "answer": "Please call or message Laurette Medical Center on +971 58 573 3778. A final treatment plan and estimate in AED are always confirmed after an in-person clinical examination."
+        }
+      ],
+      "updatedAt": "2026-11-14T15:29:44.850Z"
+    },
+    {
+      "id": "svc_8",
+      "slug": "root-canal-treatment",
+      "name": "Root Canal Treatment",
+      "confirmed": false,
+      "category": "Endodontic Care",
+      "shortSummary": "Calm, meticulous care focused on relieving internal tooth discomfort and preserving natural teeth.",
+      "whatItIs": "Careful cleaning and sealing of the tooth’s inner canal space when pulp tissue becomes inflamed.",
+      "whoItIsFor": "Patients experiencing tooth sensitivity or discomfort who wish to preserve their natural tooth.",
+      "whatToExpect": "Gentle local numbing, calm pacing, and step-by-step communication throughout your visit.",
+      "priceLabel": "Call for an estimate",
+      "durationMinutes": 60,
+      "faqs": [
+        {
+          "question": "How do I request an estimate for Root Canal Treatment?",
+          "answer": "Please call or message Laurette Medical Center on +971 58 573 3778. A final treatment plan and estimate in AED are always confirmed after an in-person clinical examination."
+        }
+      ],
+      "updatedAt": "2026-11-14T15:29:44.850Z"
+    },
+    {
+      "id": "svc_9",
+      "slug": "clear-aligners",
+      "name": "Clear Aligners",
+      "confirmed": false,
+      "category": "Orthodontic Care",
+      "shortSummary": "Removable, discreet orthodontic trays planned for gradual alignment.",
+      "whatItIs": "A series of custom-fitted transparent trays designed to guide teeth toward balanced alignment.",
+      "whoItIsFor": "Teens and adults seeking a subtle, removable alternative to traditional brackets.",
+      "whatToExpect": "A comprehensive bite consultation, timeline review, and clear fee discussion before starting.",
+      "priceLabel": "Call for an estimate",
+      "durationMinutes": 45,
+      "faqs": [
+        {
+          "question": "How do I request an estimate for Clear Aligners?",
+          "answer": "Please call or message Laurette Medical Center on +971 58 573 3778. A final treatment plan and estimate in AED are always confirmed after an in-person clinical examination."
+        }
+      ],
+      "updatedAt": "2026-11-14T15:29:44.850Z"
+    },
+    {
+      "id": "svc_10",
+      "slug": "cosmetic-dentistry",
+      "name": "Cosmetic Dentistry",
+      "confirmed": false,
+      "category": "Aesthetic Care",
+      "shortSummary": "Tailored smile design consultations balancing aesthetics with natural tooth preservation.",
+      "whatItIs": "Personalized aesthetic planning combining shade, contour, and alignment considerations.",
+      "whoItIsFor": "Patients looking for subtle, natural-looking refinements tailored to their smile.",
+      "whatToExpect": "A relaxed conversation to understand your goals without pressure. Individual results vary.",
+      "priceLabel": "Call for an estimate",
+      "durationMinutes": 45,
+      "faqs": [
+        {
+          "question": "How do I request an estimate for Cosmetic Dentistry?",
+          "answer": "Please call or message Laurette Medical Center on +971 58 573 3778. A final treatment plan and estimate in AED are always confirmed after an in-person clinical examination."
+        }
+      ],
+      "updatedAt": "2026-11-14T15:29:44.850Z"
+    },
+    {
+      "id": "svc_11",
+      "slug": "childrens-dentistry",
+      "name": "Children's Dentistry",
+      "confirmed": false,
+      "category": "Family Care",
+      "shortSummary": "Gentle, reassuring dental visits designed to help children feel safe and relaxed.",
+      "whatItIs": "Age-appropriate preventive checkups and friendly guidance for growing smiles.",
+      "whoItIsFor": "Infants, children, and teens visiting with parents or guardians in Dubai.",
+      "whatToExpect": "Slow, welcoming introductions to the dental chair and positive reinforcement at every step.",
+      "priceLabel": "Call for an estimate",
+      "durationMinutes": 30,
+      "faqs": [
+        {
+          "question": "How do I request an estimate for Children's Dentistry?",
+          "answer": "Please call or message Laurette Medical Center on +971 58 573 3778. A final treatment plan and estimate in AED are always confirmed after an in-person clinical examination."
+        }
+      ],
+      "updatedAt": "2026-11-14T15:29:44.850Z"
+    },
+    {
+      "id": "svc_12",
+      "slug": "emergency-dental-services",
+      "name": "Emergency Dental Services",
+      "confirmed": false,
+      "category": "Urgent Care",
+      "shortSummary": "Prompt evaluation requests for sudden tooth discomfort, chipped teeth, or lost restorations.",
+      "whatItIs": "Focused assessment slots to address acute dental concerns and plan next steps calmly.",
+      "whoItIsFor": "Patients experiencing sudden dental discomfort or accidental tooth damage.",
+      "whatToExpect": "Please contact our clinic or submit an urgent request. For severe facial swelling, trouble breathing/swallowing, or uncontrolled bleeding, call 998 (UAE) / 911 or visit the nearest ER immediately.",
+      "priceLabel": "Call for an estimate",
+      "durationMinutes": 30,
+      "faqs": [
+        {
+          "question": "How do I request an estimate for Emergency Dental Services?",
+          "answer": "Please call or message Laurette Medical Center on +971 58 573 3778. A final treatment plan and estimate in AED are always confirmed after an in-person clinical examination."
+        }
+      ],
+      "updatedAt": "2026-11-14T15:29:44.850Z"
+    }
+  ],
+  "providers": [
+    {
+      "id": "prov_1",
+      "slug": "lead-dental-practitioner",
+      "name": "[DENTIST NAME — PLACEHOLDER]",
+      "credentials": "[CREDENTIALS — PLACEHOLDER]",
+      "roleTitle": "Dental Practitioner",
+      "providerType": "dentist",
+      "specialty": "[SPECIALTY — PLACEHOLDER]",
+      "languages": "[LANGUAGES SPOKEN — PLACEHOLDER]",
+      "bio": "[PROVIDER BIO — PLACEHOLDER: Replace with verified biography, licensing details, and clinical focus in the Admin Panel.]",
+      "isPlaceholder": true,
+      "active": true,
+      "weeklyHours": {
+        "0": null,
+        "1": {
+          "open": "09:00",
+          "close": "19:00",
+          "lunchStart": "13:00",
+          "lunchEnd": "14:00"
+        },
+        "2": {
+          "open": "09:00",
+          "close": "19:00",
+          "lunchStart": "13:00",
+          "lunchEnd": "14:00"
+        },
+        "3": {
+          "open": "09:00",
+          "close": "19:00",
+          "lunchStart": "13:00",
+          "lunchEnd": "14:00"
+        },
+        "4": {
+          "open": "09:00",
+          "close": "19:00",
+          "lunchStart": "13:00",
+          "lunchEnd": "14:00"
+        },
+        "5": {
+          "open": "09:00",
+          "close": "19:00",
+          "lunchStart": "13:00",
+          "lunchEnd": "14:00"
+        },
+        "6": {
+          "open": "10:00",
+          "close": "17:00",
+          "lunchStart": "13:00",
+          "lunchEnd": "13:45"
+        }
+      }
+    },
+    {
+      "id": "prov_2",
+      "slug": "dental-hygienist-care-team",
+      "name": "[HYGIENIST NAME — PLACEHOLDER]",
+      "credentials": "[CREDENTIALS — PLACEHOLDER]",
+      "roleTitle": "Dental Hygienist & Preventive Care",
+      "providerType": "hygienist",
+      "specialty": "[SPECIALTY — PLACEHOLDER]",
+      "languages": "[LANGUAGES SPOKEN — PLACEHOLDER]",
+      "bio": "[HYGIENIST BIO — PLACEHOLDER: Replace with verified staff credentials and preventive care overview in the Admin Panel.]",
+      "isPlaceholder": true,
+      "active": true,
+      "weeklyHours": {
+        "0": null,
+        "1": {
+          "open": "09:00",
+          "close": "19:00",
+          "lunchStart": "13:00",
+          "lunchEnd": "14:00"
+        },
+        "2": {
+          "open": "09:00",
+          "close": "19:00",
+          "lunchStart": "13:00",
+          "lunchEnd": "14:00"
+        },
+        "3": {
+          "open": "09:00",
+          "close": "19:00",
+          "lunchStart": "13:00",
+          "lunchEnd": "14:00"
+        },
+        "4": {
+          "open": "09:00",
+          "close": "19:00",
+          "lunchStart": "13:00",
+          "lunchEnd": "14:00"
+        },
+        "5": {
+          "open": "09:00",
+          "close": "19:00",
+          "lunchStart": "13:00",
+          "lunchEnd": "14:00"
+        },
+        "6": {
+          "open": "10:00",
+          "close": "17:00",
+          "lunchStart": "13:00",
+          "lunchEnd": "13:45"
+        }
+      }
+    }
+  ],
+  "operatories": [
+    {
+      "id": "op_1",
+      "name": "Suite 01",
+      "active": true
+    },
+    {
+      "id": "op_2",
+      "name": "Suite 02",
+      "active": true
+    }
+  ],
+  "appointmentTypes": [
+    {
+      "id": "apt_new_patient",
+      "name": "New Patient Consultation & Exam",
+      "description": "Unhurried initial visit to meet your dentist, discuss goals, and review oral health.",
+      "durationMinutes": 45,
+      "newPatientsAllowed": true,
+      "eligibleProviderIds": [
+        "prov_1"
+      ],
+      "depositAmountAed": 0,
+      "active": true
+    },
+    {
+      "id": "apt_checkup",
+      "name": "Routine Checkup & Care",
+      "description": "Follow-up oral assessment and preventive consultation for returning patients.",
+      "durationMinutes": 30,
+      "newPatientsAllowed": true,
+      "eligibleProviderIds": [
+        "prov_1",
+        "prov_2"
+      ],
+      "depositAmountAed": 0,
+      "active": true
+    },
+    {
+      "id": "apt_consultation",
+      "name": "Aesthetic & Restorative Consultation",
+      "description": "Dedicated consultation to discuss smile goals, timelines, and personalized AED estimates.",
+      "durationMinutes": 45,
+      "newPatientsAllowed": true,
+      "eligibleProviderIds": [
+        "prov_1"
+      ],
+      "depositAmountAed": 0,
+      "active": true
+    },
+    {
+      "id": "apt_urgent",
+      "name": "Urgent Dental Request",
+      "description": "Priority appointment request for sudden tooth discomfort or broken restorations.",
+      "durationMinutes": 30,
+      "newPatientsAllowed": true,
+      "eligibleProviderIds": [
+        "prov_1"
+      ],
+      "depositAmountAed": 0,
+      "active": true
+    },
+    {
+      "id": "apt_child",
+      "name": "Child's First Visit",
+      "description": "Gentle, reassuring introduction to dental care for younger patients.",
+      "durationMinutes": 30,
+      "newPatientsAllowed": true,
+      "eligibleProviderIds": [
+        "prov_1",
+        "prov_2"
+      ],
+      "depositAmountAed": 0,
+      "active": true
+    }
+  ],
+  "appointments": [],
+  "holds": [],
+  "waitlist": [],
+  "requests": [],
+  "offers": [],
+  "membershipPlans": [],
+  "reviews": [],
+  "galleryItems": [],
+  "blogPosts": [
+    {
+      "id": "blog_1",
+      "slug": "dental-checkup-costs-and-estimates-in-dubai",
+      "title": "Understanding Dental Checkup & Cleaning Estimates in Al Rigga, Dubai",
+      "excerpt": "A calm, transparent guide to what influences dental visit pricing in Dubai, why an in-person exam comes first, and how to request an estimate in AED.",
+      "category": "Patient Guide",
+      "tags": [
+        "Al Rigga",
+        "Dubai",
+        "Dental Checkup",
+        "Estimates"
+      ],
+      "readingMinutes": 5,
+      "reviewedBy": "Reviewed by [DOCTOR NAME, CREDENTIALS]",
+      "status": "published",
+      "publishedAt": "2026-11-14T15:29:44.850Z",
+      "coverImageUrl": "/src/assets/images/consultation_lounge_dubai_1794669775983.jpg",
+      "content": "Planning a dental visit in Dubai often begins with a straightforward question: what will my appointment cost in AED? Because every mouth and every clinical history is unique, ethical dental clinics avoid quoting fixed treatment prices without first evaluating your teeth and gums in person.\n\n### Why Prices Begin With an Examination\nA routine checkup or cleaning is never a one-size-fits-all procedure. During a consultation, a dentist evaluates several practical factors:\n- **Existing gum and enamel health:** Some patients need simple preventive polishing, while others benefit from deeper periodontal care staged across visits.\n- **Diagnostic imaging needs:** Whether digital radiographs or specific views are clinically helpful depends on when your last images were taken and what symptoms or goals you have.\n- **Time required in the suite:** A calm, unhurried appointment takes the time needed to answer your questions without rushing.\n\n### Transparent Estimates Before Any Care Begins\nAt Laurette Medical Center in Al Rigga, Dubai, patients are always encouraged to ask about estimated fees upfront. Before any recommended care proceeds, your clinician walks through the proposed steps and provides a clear written estimate in AED so there are no surprises.\n\n### How to Prepare When Calling for an Estimate\nWhen you reach out by phone or WhatsApp on +971 58 573 3778, sharing a brief overview of whether you are seeking a routine checkup, an aesthetic consultation, or an urgent evaluation helps our reception team guide you to the right appointment length. Please remember never to send confidential personal medical records over unencrypted messaging—those details are always discussed privately with your dentist inside the clinic.\n\n### Scheduling at Your Convenience\nWhether you live or work in Al Rigga, Deira, Al Muraqqabat, or Port Saeed, scheduling a quiet morning or afternoon consultation lets you receive tailored answers grounded in a thorough clinical exam. Final pricing is always confirmed after your examination.\n\n*Reviewed by [DOCTOR NAME, CREDENTIALS]*"
+    },
+    {
+      "id": "blog_2",
+      "slug": "what-to-expect-at-your-first-dental-visit",
+      "title": "What to Expect at Your First Visit to a Dubai Dental Clinic",
+      "excerpt": "If it has been a while since your last dental appointment, knowing each calm step in advance can ease uncertainty and make your visit comfortable.",
+      "category": "New Patients",
+      "tags": [
+        "First Visit",
+        "Anxiety-Friendly Care",
+        "Dubai"
+      ],
+      "readingMinutes": 6,
+      "reviewedBy": "Reviewed by [DOCTOR NAME, CREDENTIALS]",
+      "status": "published",
+      "publishedAt": "2026-11-14T15:29:44.850Z",
+      "coverImageUrl": "/src/assets/images/hero_laurette_reception_1794669774690.jpg",
+      "content": "Feeling hesitant before a first visit to a new dental clinic is completely normal. Whether you recently relocated to Dubai or simply have not had a checkup in some time, knowing exactly how your appointment unfolds removes much of the guesswork.\n\n### 1. A Quiet Welcome in Reception\nUpon arriving at Laurette Medical Center in Al Rigga, you are greeted in a calm, hospitality-inspired lounge rather than a rushed waiting room. Completing your basic contact preferences online ahead of time helps keep check-in brief and effortless.\n\n### 2. Conversation Before Examination\nYour first minutes with the dentist happen away from clinical instruments—just a straightforward conversation about what brought you in, what your long-term smile priorities are, and whether you experience any sensitivity or dental anxiety. You are always in control of the pace; raising a hand pauses care immediately.\n\n### 3. Gentle Clinical Assessment\nWhen you are ready, your dentist performs a thorough, unhurried assessment of your teeth, gums, and bite. Every observation is explained in plain, everyday English rather than dense clinical jargon.\n\n### 4. Clear Next Steps Without Pressure\nAt the conclusion of your initial consultation, you receive a straightforward summary of findings, optional preventive or restorative pathways, and a transparent estimate in AED. You never have to commit to a multi-step plan on the spot—take the information home, review it comfortably, and proceed only when you feel fully informed.\n\n### Booking Your First Visit\nTo schedule your first visit or ask our reception team a question before booking, call or message +971 58 573 3778.\n\n*Reviewed by [DOCTOR NAME, CREDENTIALS]*"
+    },
+    {
+      "id": "blog_3",
+      "slug": "clear-aligners-and-orthodontic-consultations",
+      "title": "Clear Aligners vs Traditional Braces: Questions for Your Consultation",
+      "excerpt": "A balanced, medically conservative overview of removable aligners and fixed orthodontics to help you prepare for a consultation in Dubai.",
+      "category": "Orthodontic Education",
+      "tags": [
+        "Clear Aligners",
+        "Orthodontics",
+        "Consultation"
+      ],
+      "readingMinutes": 6,
+      "reviewedBy": "Reviewed by [DOCTOR NAME, CREDENTIALS]",
+      "status": "published",
+      "publishedAt": "2026-11-14T15:29:44.850Z",
+      "coverImageUrl": "/src/assets/images/luxury_care_still_life_1794669776597.jpg",
+      "content": "Many adults and teens exploring tooth alignment in Dubai wonder whether removable clear aligners or traditional braces are better suited to their bite. Rather than one option being universally \"best,\" suitability depends closely on your individual tooth movement goals and daily routine.\n\n### How Clear Aligners Work\nClear aligners use a sequence of custom-molded transparent trays worn for approximately 20 to 22 hours each day. Because they are removable for meals and brushing, many patients appreciate the convenience for dining and oral hygiene. Consistent daily wear is essential to keep progress on track.\n\n### When Fixed Braces May Be Discussed\nCertain complex bite relationships, vertical tooth movements, or rotated teeth can respond more predictably to fixed brackets and wires. During a diagnostic consultation, a dentist evaluates your bite mechanics, gum support, and alignment priorities before outlining which approaches are clinically appropriate.\n\n### Key Questions to Ask at Your Consultation\n1. Are my gums and supporting bone healthy enough to begin orthodontic movement?\n2. What is the realistic range of treatment duration for my specific bite?\n3. What post-treatment retention (retainers) will be needed to maintain alignment long term?\n4. What is the complete estimated fee in AED, and what follow-up visits are included?\n\n### Individual Results Vary\nEvery orthodontic journey is personal. To explore whether an alignment consultation is currently available at Laurette Medical Center, contact our Al Rigga reception team at +971 58 573 3778.\n\n*Reviewed by [DOCTOR NAME, CREDENTIALS]*"
+    }
+  ],
+  "intakeForms": [],
+  "patients": [
+    {
+      "id": "pat_demo_1",
+      "email": "patient@example.com",
+      "name": "Sample Patient",
+      "phone": "+971 50 000 0000",
+      "referralCode": "LAURETTE-SAMPLE",
+      "referralCreditAed": 0,
+      "emailReminders": true,
+      "recallOptIn": true,
+      "familyMembers": [],
+      "membershipStatus": null
+    }
+  ],
+  "chatTranscripts": [
+    {
+      "id": "chat_c38c0131",
+      "sessionId": "test_emg",
+      "messages": [
+        {
+          "role": "user",
+          "text": "I have trouble breathing and swelling spreading to my face",
+          "timestamp": "2026-11-14T15:29:50.804Z"
+        },
+        {
+          "role": "assistant",
+          "text": "Call 998 (UAE) / 911 or go to the nearest emergency room now. If you have trouble breathing or swallowing, facial or neck swelling spreading, uncontrolled bleeding, or head/facial trauma, please seek immediate emergency medical care.",
+          "timestamp": "2026-11-14T15:29:50.804Z"
+        }
+      ],
+      "updatedAt": "2026-11-14T15:29:50.804Z"
+    }
+  ],
+  "auditLogs": [],
+  "pendingAuthCodes": []
+}

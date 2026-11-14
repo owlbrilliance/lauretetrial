@@ -1,0 +1,8 @@
+{
+  "name": "Laurette Medical Center",
+  "description": "Luxury dental and aesthetic medical center in Al Rigga, Dubai. Book appointments, request estimates, and connect via WhatsApp or phone.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
